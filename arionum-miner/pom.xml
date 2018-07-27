@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 
 	<name>arionum-miner-java</name>
-	<url>https://github.com/birdGYTLL/my-m/tree/master/arionum-miner</url>
+	<url>https://github.com/birdGYTLL/my-m/arionum-miner</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
