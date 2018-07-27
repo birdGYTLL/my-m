@@ -7,7 +7,7 @@
 	<version>0.2.5-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>a-m-j</name>
+	<name>arionum-miner-java</name>
 	<url>https://github.com/birdGYTLL/my-m/tree/master/arionum-miner</url>
 
 	<properties>
